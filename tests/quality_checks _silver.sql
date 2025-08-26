@@ -18,6 +18,7 @@ Usage Notes:
 */
 -- ================================================================================
 -- Checking 'silver.crm_cust_info'
+--===================================================================================
 --Check for NULLS or Duplicates in Primary Key
 -- Expectation no results
 
